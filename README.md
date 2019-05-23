@@ -1,2 +1,1 @@
-# hw16
-Geomapping HW
+Uses GeoJSON to create a live map of earthquakes around the world.
